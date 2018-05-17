@@ -13,7 +13,6 @@ io.mangoo.exceptions
 io.mangoo.filters
 io.mangoo.filters.oauth
 io.mangoo.helpers
-io.mangoo.helpers.cookie
 io.mangoo.i18n
 io.mangoo.interfaces
 io.mangoo.managers
