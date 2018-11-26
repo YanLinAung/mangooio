@@ -1,0 +1,1 @@
+<#if identifier??>authenticated<#else>not authenticated</#if>
