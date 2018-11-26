@@ -1,3 +1,0 @@
-multipart template
-${name}
-${king}

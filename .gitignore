@@ -1,9 +1,0 @@
-.classpath
-.project
-*.iml
-.settings/
-.idea/
-target/
-site/
-*.jar
-*.class
